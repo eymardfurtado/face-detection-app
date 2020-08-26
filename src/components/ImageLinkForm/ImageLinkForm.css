@@ -1,0 +1,13 @@
+.ImageLinkForm {
+  border: none;
+  padding: 10px;
+  border-radius: 6px;
+  width: 90%;
+  margin: auto;
+  backdrop-filter: blur(3px) opacity(92%);
+}
+
+.ImageLinkForm input, .ImageLinkForm button  {
+ 
+  outline: none;
+}
